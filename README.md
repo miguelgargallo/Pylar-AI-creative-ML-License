@@ -2,24 +2,21 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 # PylarCreativeML
 
+# Table of contents
+
+- [PylarCreativeML](#pylarcreativeml)
+  - [Section I: PREAMBLE](#section-i-preamble)
+- [NOW THEREFORE, You and Licensor agree as follows:](#now-therefore-you-and-licensor-agree-as-follows)
+  - [1. Definitions](#1-definitions)
+  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
+  - [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii-conditions-of-usage-distribution-and-redistribution)
+  - [Section IV: OTHER PROVISIONS](#section-iv-other-provisions)
+  - [Section V: PylarCreativeML-License VERSIONS](#section-v-pylarcreativeml-license-versions)
+  - [END OF TERMS AND CONDITIONS](#end-of-terms-and-conditions)
+
 - dated: November the 1st of the year 2022.
 - from: legal@itamaesan.org (contact us through this address)
 - version: 0.0.1
-
-- [PylarCreativeML](#pylarcreativeml)
-  * [Section I: PREAMBLE](#section-i--preamble)
-        * [Multimodal generative models are being widely adopted and used, and have the potential to transform the way artists, among other individuals, conceive and benefit from AI or ML technologies as a tool for content creation.](#multimodal-generative-models-are-being-widely-adopted-and-used--and-have-the-potential-to-transform-the-way-artists--among-other-individuals--conceive-and-benefit-from-ai-or-ml-technologies-as-a-tool-for-content-creation)
-- [NOW THEREFORE, You and Licensor agree as follows:](#now-therefore--you-and-licensor-agree-as-follows-)
-  * [1. Definitions](#1-definitions)
-  * [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii--intellectual-property-rights)
-        * [Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.](#both-copyright-and-patent-grants-apply-to-the-pylar-documents-the-pylar-documents-are-subject-to-additional-terms-as-described-in-section-iii)
-  * [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii--conditions-of-usage--distribution-and-redistribution)
-  * [Section IV: OTHER PROVISIONS](#section-iv--other-provisions)
-  * [Section V: PylarCreativeML-License VERSIONS](#section-v--pylarcreativeml-license-versions)
-  * [END OF TERMS AND CONDITIONS](#end-of-terms-and-conditions)
-    + [Attachment A](#attachment-a)
-      - [Use Restrictions](#use-restrictions)
-        * [You agree not to use the Pylar Documents or Derivatives of the Pylar Documents:](#you-agree-not-to-use-the-pylar-documents-or-derivatives-of-the-pylar-documents-)
 
 ## Section I: PREAMBLE
 
