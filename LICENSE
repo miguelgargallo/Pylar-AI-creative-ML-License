@@ -1,17 +1,14 @@
-Copyright (c) 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
+Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
-The Owners: Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
+# PylarCreativeML
 
-PylarCreativeML
+- dated: November the 1st of the year 2022.
+- from: legal@itamaesan.org (contact us through this address)
+- version: 0.0.1
 
-dated: November the 1st of the year 2022.
-from: legal@itamaesan.org (contact us through this address)
-version: 0.0.1
+## Section I: PREAMBLE
 
-
-Section I: PREAMBLE
-
-Multimodal generative models are being widely adopted and used, and have the potential to transform the way artists, among other individuals, conceive and benefit from AI or ML technologies as a tool for content creation.
+##### Multimodal generative models are being widely adopted and used, and have the potential to transform the way artists, among other individuals, conceive and benefit from AI or ML technologies as a tool for content creation.
 
 Notwithstanding the current and potential benefits that these artifacts can bring to society at large, there are also concerns about potential misuses of them, either due to their technical limitations or ethical considerations.
 
@@ -29,10 +26,9 @@ Downstream derivative versions of Pylar Documents could not be released. We beli
 This License governs the use of Pylar Documents and is informed by Pylar Documents card associated with Pylar Documents.
 
 
-NOW THEREFORE, You and Licensor agree as follows:
+# NOW THEREFORE, You and Licensor agree as follows:
 
-
-1. Definitions
+## 1. Definitions
 
 - "License" means the terms and conditions for use, reproduction, and Distribution as defined in this document.
 - "Software" means the programs and other operating information used by a computer.
@@ -57,22 +53,21 @@ NOW THEREFORE, You and Licensor agree as follows:
 - "PylarCreativeML-License versions" means This license is subject to change at anytime. See section Section V: PylarCreativeML-License VERSIONS to know more.
 
 
-Section II: INTELLECTUAL PROPERTY RIGHTS
-
-Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
+## Section II: INTELLECTUAL PROPERTY RIGHTS
+##### Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
 
 1. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Pylar Documents.
 
 2. Grant of Patent License. Subject to the terms and conditions of this License and where and as applicable, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph), you are not to patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer Pylar Documents, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Pylar Documentation or a Contribution incorporated within the Pylar Documents constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for the Model and/or Work shall terminate as of the date such litigation is asserted or filed.
 
 
-Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
+## Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
 
 3. Distribution and Redistribution. You may host for Third Party remote access purposes (e.g. Software-as-a-service), reproduce and distribute copies of the Pylar Documents thereof in any medium, with or without modifications, provided that You meet the following conditions:
-Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
-You must give any Third Party recipients of the Pylar Documents a copy of this License;
-You must cause any modified files to carry prominent notices stating that You changed the files;
-You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Pylar Documents, Derivatives of the Model.
+- Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
+- You must give any Third Party recipients of the Pylar Documents a copy of this License;
+- You must cause any modified files to carry prominent notices stating that You changed the files;
+- You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Pylar Documents, Derivatives of the Model.
 
 4. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Pylar Documents as a whole, provided Your use, reproduction, and Distribution of the Pylar Documents otherwise complies with the conditions stated in this License.
 
@@ -81,7 +76,7 @@ You must retain all copyright, patent, trademark, and attribution notices exclud
 6. The Output You Generate. Except as set forth herein, Licensor claims no rights in the Output You generate using the Pylar Documents. You are accountable for the Output you generate and its subsequent uses. No use of the output can contravene any provision as stated in the License.
 
 
-Section IV: OTHER PROVISIONS
+## Section IV: OTHER PROVISIONS
 
 7. Updates and Runtime Restrictions. To the maximum extent permitted by law, Licensor reserves the right to restrict (remotely or otherwise) usage of the Pylar Documents in violation of this License, update the Pylar Documents through electronic means, or modify the Output of the Pylar Documents based on updates. You shall undertake reasonable efforts to use the latest version of the Pylar Documents.
 
@@ -96,7 +91,7 @@ Section IV: OTHER PROVISIONS
 12. If any provision of this License is held to be invalid, illegal or unenforceable, the remaining provisions shall be unaffected thereby and remain valid as if such provision had not been set forth herein.
 
 
-Section V: PylarCreativeML-License VERSIONS
+## Section V: PylarCreativeML-License VERSIONS
 
 13. Any time the PylarCreativeML-License is updated:
 
@@ -123,14 +118,14 @@ Section V: PylarCreativeML-License VERSIONS
 24. the Owners can vote to update all Pylar Documents to the newer PylarCreativeML-License version all the Owners must first approve by unnanimity the new version.
 
 
-END OF TERMS AND CONDITIONS
+## END OF TERMS AND CONDITIONS
 
 
-Attachment A
+###  Attachment A
 
-Use Restrictions
+#### Use Restrictions
 
-You agree not to use the Pylar Documents or Derivatives of the Pylar Documents:
+##### You agree not to use the Pylar Documents or Derivatives of the Pylar Documents:
 
 - In any way that violates any applicable national, federal, state, local or international law or regulation;
 

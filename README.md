@@ -1,6 +1,4 @@
-#### Copyright (c) 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
-
-#### The Owners: Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
+Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
 # PylarCreativeML
 
@@ -8,10 +6,9 @@
 - from: legal@itamaesan.org (contact us through this address)
 - version: 0.0.1
 
-
 ## Section I: PREAMBLE
 
-Multimodal generative models are being widely adopted and used, and have the potential to transform the way artists, among other individuals, conceive and benefit from AI or ML technologies as a tool for content creation.
+##### Multimodal generative models are being widely adopted and used, and have the potential to transform the way artists, among other individuals, conceive and benefit from AI or ML technologies as a tool for content creation.
 
 Notwithstanding the current and potential benefits that these artifacts can bring to society at large, there are also concerns about potential misuses of them, either due to their technical limitations or ethical considerations.
 
@@ -30,7 +27,6 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 
 
 # NOW THEREFORE, You and Licensor agree as follows:
-
 
 ## 1. Definitions
 
@@ -58,8 +54,7 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 
 
 ## Section II: INTELLECTUAL PROPERTY RIGHTS
-
-Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
+##### Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
 
 1. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Pylar Documents.
 
@@ -69,10 +64,10 @@ Both copyright and patent grants apply to the Pylar Documents. The Pylar Documen
 ## Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
 
 3. Distribution and Redistribution. You may host for Third Party remote access purposes (e.g. Software-as-a-service), reproduce and distribute copies of the Pylar Documents thereof in any medium, with or without modifications, provided that You meet the following conditions:
-Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
-You must give any Third Party recipients of the Pylar Documents a copy of this License;
-You must cause any modified files to carry prominent notices stating that You changed the files;
-You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Pylar Documents, Derivatives of the Model.
+- Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
+- You must give any Third Party recipients of the Pylar Documents a copy of this License;
+- You must cause any modified files to carry prominent notices stating that You changed the files;
+- You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Pylar Documents, Derivatives of the Model.
 
 4. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Pylar Documents as a whole, provided Your use, reproduction, and Distribution of the Pylar Documents otherwise complies with the conditions stated in this License.
 
@@ -126,11 +121,11 @@ You must retain all copyright, patent, trademark, and attribution notices exclud
 ## END OF TERMS AND CONDITIONS
 
 
-## Attachment A
+###  Attachment A
 
-Use Restrictions
+#### Use Restrictions
 
-You agree not to use the Pylar Documents or Derivatives of the Pylar Documents:
+##### You agree not to use the Pylar Documents or Derivatives of the Pylar Documents:
 
 - In any way that violates any applicable national, federal, state, local or international law or regulation;
 
