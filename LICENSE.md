@@ -1,6 +1,6 @@
 Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
-# PylarAIcreativeML
+# Pylar AI creative ML
 
 #### Table of contents
 
@@ -14,7 +14,7 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 #### About this PylarAIcreativeML License
 
-| About  | PylarAIcreativeML  |
+| About  | Pylar AI creative ML  |
 | ------------ | ------------ |
 | dated  | November the 1st of the year 2022  |
 | from  | legal@itamaesan.org (contact us through this address)  |
