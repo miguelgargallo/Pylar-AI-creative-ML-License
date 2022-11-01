@@ -1,6 +1,6 @@
 Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
-# PylarCreativeML
+# PylarAIcreativeML
 
 #### Table of contents
 
@@ -9,12 +9,12 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
  - [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii-conditions-of-usage-distribution-and-redistribution)
  - [Section IV: OTHER PROVISIONS](#section-iv-other-provisions)
- - [Section V: PylarCreativeML-License VERSIONS](#section-v-pylarcreativeml-license-versions)
+ - [Section V: License VERSIONS](#section-v-License-versions)
  - [Use Restrictions](#use-restrictions)
 
-#### About this PylarCreativeML
+#### About this PylarAIcreativeML License
 
-| About  | PylarCreativeML  |
+| About  | PylarAIcreativeML  |
 | ------------ | ------------ |
 | dated  | November the 1st of the year 2022  |
 | from  | legal@itamaesan.org (contact us through this address)  |
@@ -26,7 +26,7 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 Notwithstanding the current and potential benefits that these artifacts can bring to society at large, there are also concerns about potential misuses of them, either due to their technical limitations or ethical considerations.
 
-In short, this license strives for both the open and not commercial purpose: so, Pylar Documents, does not allow: use for commercial or endorse. When it comes to the open character, we took inspiration from open source but not to permit or grant of IP rights to anyone. Referring to the downstream responsible use, we added use-based restrictions "Use Restrictions" section.
+In short, this License strives for both the open and not commercial purpose: so, Pylar Documents, does not allow: use for commercial or endorse. When it comes to the open character, we took inspiration from open source but not to permit or grant of IP rights to anyone. Referring to the downstream responsible use, we added use-based restrictions "Use Restrictions" section.
 
 In terms of publishing always must be for non commercial and endorse porpuse:
   - Pylar Documents.
@@ -48,12 +48,12 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 - "Software" means the programs and other operating information used by a computer.
 - "Repo" means a central location in which data is stored and managed.
 - “Owner” means Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
-- “Pylar Documents" means the Software, the Model, the Dataset or any kind of derivate of the Software, the Model or the Dataset and Complementary Material provided the Owners.
+- “Pylar Documents" means the Software, the Project, the Model, the Dataset or any kind of derivate of the Software, the Project, the Model or the Dataset and Complementary Material provided the Owners.
 - "Dataset" means a collection of data pieces that can be treated by a computer as a single unit for analytic and prediction purposes. This means that the data collected should be made uniform and understandable for a machine that doesn't see data the same way as humans do.
-- "Data" means a collection of information and/or content extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model. The Data is not licensed under this License.
+- "Data" means a collection of information and/or content extracted from the dataset used with the Model, including to train, pretrain, or otherwise evaluate the Model. The Data is not Licensed under this License.
 - "Output" means the results of operating a Model as embodied in informational content resulting therefrom.
 - "Model" means any accompanying machine-learning based assemblies (including checkpoints), consisting of learnt weights, parameters (including optimizer states), corresponding to the Model architecture as embodied in the Complementary Material, that have been trained or tuned, in whole or in part on the Data, using the Complementary Material.
-- "Derivatives of the Software" means all modifications to the Software, works based on the Software, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Software, to the other model, in order to cause the other model to perform similarly to the Software, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Software for training the other model.
+- "Derivatives of the Software, the Project" means all modifications to the Software, the Project, works based on the Software, the Project, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Software, the Project, to the other model, in order to cause the other model to perform similarly to the Software, the Project, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Software, the Project for training the other model.
 - "Derivatives of the Dataset" means all modifications to the Dataset, works based on the Dataset, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Dataset, to the other model, in order to cause the other model to perform similarly to the Dataset, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Dataset for training the other model.
 - "Derivatives of the Model" means all modifications to the Model, works based on the Model, or any other model which is created or initialized by transfer of patterns of the weights, parameters, activations or output of the Model, to the other model, in order to cause the other model to perform similarly to the Model, including - but not limited to - distillation methods entailing the use of intermediate data representations or methods based on the generation of synthetic data by the Model for training the other model.
 - "Complementary Material" means the accompanying source code and scripts used to define, run, load, benchmark or evaluate the Pylar Documents, and used to prepare data for training or evaluation, if any. This includes any accompanying Documents, tutorials, examples, etc, if any. Complementary Material is also part of the Pylar Documents.
@@ -64,26 +64,27 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 - "Third Parties" means individuals or legal entities that are not under common control with Licensor or You.
 - "Contribution" means any work of authorship, including the original version of the Model and any modifications or additions to the Pylar Documents thereof, that is intentionally submitted to Licensor for inclusion in the Model by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Model, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 - "Contributor" means Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Model.
-- "PylarCreativeML-License versions" means This license is subject to change at anytime. See section Section V: PylarCreativeML-License VERSIONS to know more.
+- "License versions" means This License is subject to change at anytime. See section Section V: License VERSIONS to know more. (paragraph 13-24).
 
 
 ## Section II: INTELLECTUAL PROPERTY RIGHTS
+
 ##### Both copyright and patent grants apply to the Pylar Documents. The Pylar Documents are subject to additional terms as described in Section III.
 
-1. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare, publicly display, publicly perform, sublicense, and distribute the Pylar Documents.
+1. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright License to reproduce, prepare, publicly display, publicly perform, subLicense, and distribute the Pylar Documents.
 
-2. Grant of Patent License. Subject to the terms and conditions of this License and where and as applicable, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph), you are not to patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer Pylar Documents, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Pylar Documentation or a Contribution incorporated within the Pylar Documents constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for the Model and/or Work shall terminate as of the date such litigation is asserted or filed.
+2. Grant of Patent License. Subject to the terms and conditions of this License and where and as applicable, each Contributor does not hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this paragraph), you are not to patent License to make, have made, use, offer to sell, sell, import, and otherwise transfer Pylar Documents, where such License applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Model to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Pylar Documentation or a Contribution incorporated within the Pylar Documents constitutes direct or contributory patent infringement, then any patent Licenses granted to You under this License for the Model and/or Work shall terminate as of the date such litigation is asserted or filed.
 
 
 ## Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION
 
 3. Distribution and Redistribution. You may host for Third Party remote access purposes (e.g. Software-as-a-service), reproduce and distribute copies of the Pylar Documents thereof in any medium, with or without modifications, provided that You meet the following conditions:
-- Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a license) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
+- Use-based restrictions as referenced in paragraph 5 MUST be included as an enforceable provision by You in any type of legal agreement (e.g. a License) governing the use and/or distribution of the Pylar Documents, and You shall give notice to subsequent users You Distribute to, that the Pylar Documents are subject to paragraph 5. This provision applies also to the use of Pylar Documents and the Complementary Material.
 - You must give any Third Party recipients of the Pylar Documents a copy of this License;
 - You must cause any modified files to carry prominent notices stating that You changed the files;
 - You must retain all copyright, patent, trademark, and attribution notices excluding those notices that do not pertain to any part of the Pylar Documents, Derivatives of the Model.
 
-4. You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Pylar Documents as a whole, provided Your use, reproduction, and Distribution of the Pylar Documents otherwise complies with the conditions stated in this License.
+4. You may add Your own copyright statement to Your modifications and may provide additional or different License terms and conditions - respecting paragraph 4.a. - for use, reproduction, or Distribution of Your modifications, or for any such Derivatives of the Pylar Documents as a whole, provided Your use, reproduction, and Distribution of the Pylar Documents otherwise complies with the conditions stated in this License.
 
 5. Use-based restrictions. The restrictions set forth in Attachment A are considered Use-based restrictions. Therefore You cannot use the Pylar Documents for the specified restricted uses. You may use the Pylar Documents subject to this License, including only for lawful purposes and in accordance with the License. Use may include creating any content with, finetuning, updating, running, training, evaluating and/or reparametrizing the Pylar Documents. You shall require all of Your users who use the Model or a Derivative of the Model to comply with the terms of this paragraph (paragraph 5).
 
@@ -105,31 +106,31 @@ This License governs the use of Pylar Documents and is informed by Pylar Documen
 12. If any provision of this License is held to be invalid, illegal or unenforceable, the remaining provisions shall be unaffected thereby and remain valid as if such provision had not been set forth herein.
 
 
-## Section V: PylarCreativeML-License VERSIONS
+## Section V: LICENSE VERSIONS
 
-13. Any time the PylarCreativeML-License is updated:
+13. Any time the License is updated:
 
-14. the Owners will upload a new PylarCreativeML-License version document.
+14. the Owners will upload a new License version document.
 
-15. the Owners will indicating at the top of the PylarCreativeML-License the version.
+15. the Owners will indicating at the top of the License the version.
 
-16. the Owners will never be allowed to delete a past version of the PylarCreativeML-License.
+16. the Owners will never be allowed to delete a past version of the License.
 
-17. only the Owners are allowed to propose to update the PylarCreativeML-License.
+17. only the Owners are allowed to propose to update the License.
 
-18. in any Owner propose to update the PylarCreativeML-License, all the Owners must first approve by unnanimity the new version.
+18. in any Owner propose to update the License, all the Owners must first approve by unnanimity the new version.
 
-19. when a new PylarCreativeML-License version is approved, this action means only informative.
+19. when a new License version is approved, this action means only informative.
 
-20. past versions of PylarCreativeML-License will remain untoached and never will be deleted, only sent to a folder "archived"
+20. past versions of License will remain untoached and never will be deleted, only sent to a folder "archived"
 
-21. the PylarCreativeML-License on the "archived" folder, are also valid licenses for thoese Pylar Documents with their PylarCreativeML-License version.
+21. the License on the "archived" folder, are also valid Licenses for thoese Pylar Documents with their License version.
 
-22. when a new PylarCreativeML-License version is approved, this action means only informative.
+22. when a new License version is approved, this action means only informative.
 
 23. the Owners must vote before changing and past Pylar Documents version, all the Owners must first approve by unnanimity the new version.
 
-24. the Owners can vote to update all Pylar Documents to the newer PylarCreativeML-License version all the Owners must first approve by unnanimity the new version.
+24. the Owners can vote to update all Pylar Documents to the newer License version all the Owners must first approve by unnanimity the new version.
 
 
 ## END OF TERMS AND CONDITIONS
