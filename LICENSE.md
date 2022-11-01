@@ -4,15 +4,13 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 #### Table of contents
 
-- [PylarCreativeML](#pylarcreativeml)
-  - [Section I: PREAMBLE](#section-i-preamble)
-- [NOW THEREFORE, You and Licensor agree as follows:](#now-therefore-you-and-licensor-agree-as-follows)
-  - [1. Definitions](#1-definitions)
-  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
-  - [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii-conditions-of-usage-distribution-and-redistribution)
-  - [Section IV: OTHER PROVISIONS](#section-iv-other-provisions)
-  - [Section V: PylarCreativeML-License VERSIONS](#section-v-pylarcreativeml-license-versions)
-  - [END OF TERMS AND CONDITIONS](#end-of-terms-and-conditions)
+ - [Section I: PREAMBLE](#section-i-preamble)
+ - [1. Definitions](#1-definitions)
+ - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
+ - [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii-conditions-of-usage-distribution-and-redistribution)
+ - [Section IV: OTHER PROVISIONS](#section-iv-other-provisions)
+ - [Section V: PylarCreativeML-License VERSIONS](#section-v-pylarcreativeml-license-versions)
+ - [Use Restrictions](#use-restrictions)
 
 #### About this PylarCreativeML
 
