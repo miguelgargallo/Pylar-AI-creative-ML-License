@@ -2,6 +2,18 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 # PylarCreativeML
 
+# Table of contents
+
+- [PylarCreativeML](#pylarcreativeml)
+  - [Section I: PREAMBLE](#section-i-preamble)
+- [NOW THEREFORE, You and Licensor agree as follows:](#now-therefore-you-and-licensor-agree-as-follows)
+  - [1. Definitions](#1-definitions)
+  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
+  - [Section III: CONDITIONS OF USAGE, DISTRIBUTION AND REDISTRIBUTION](#section-iii-conditions-of-usage-distribution-and-redistribution)
+  - [Section IV: OTHER PROVISIONS](#section-iv-other-provisions)
+  - [Section V: PylarCreativeML-License VERSIONS](#section-v-pylarcreativeml-license-versions)
+  - [END OF TERMS AND CONDITIONS](#end-of-terms-and-conditions)
+
 - dated: November the 1st of the year 2022.
 - from: legal@itamaesan.org (contact us through this address)
 - version: 0.0.1
