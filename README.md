@@ -1,3 +1,7 @@
+You can use this as a template for your projects, just use the template or fork! and delete this file and mantain "License.md"
+
+- - - - -
+
 Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
 | Pylar AI creative ML | Permissions  | Limitations | Conditions |
