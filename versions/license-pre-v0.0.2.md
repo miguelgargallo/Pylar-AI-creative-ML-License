@@ -10,7 +10,7 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 | Version: pre-v0.0.2 | ✅ Non-commercial publications  | ❌ Warranty |  |
 |  | ✅ No endorse publications | ❌ Modification to endorse |  |  |
 |  | ✅ Modification only to PR | ❌ Modification to PR outside the [Official Sources](#official-sources)  |  |  |
-| This is not legal advice. [Learn more about repository licenses.](#section-i-preamble) | ✅ Use this license according [Indications](Indications)  | ❌ Modification for commercial use  |  |  |
+| This is not legal advice. [Learn more about repository licenses.](#section-i-preamble) | ✅ Use this license according [Section Indications](section-0-indications)  | ❌ Modification for commercial use  |  |  |
 
 # Pylar AI creative ML
 
