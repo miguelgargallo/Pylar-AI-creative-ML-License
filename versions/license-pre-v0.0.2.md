@@ -36,7 +36,8 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 ## Section 0: INDICATIONS
 
-##### Use this license at Github only as a template of the project according [Official Sources](#Official-Sources) or if its outside, add the link of the license inside the version folder license file.
+ - Use this license at Github only as a template of the project according [Official Sources](#Official-Sources)
+ - if the use of the license is outside [Official Sources](#Official-Sources), it must provide a link of the license version, this link is indide the versions folder of the [Official Sources](#Official-Sources).
 
 ## Section I: PREAMBLE
 
