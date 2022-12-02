@@ -16,7 +16,7 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 
 #### Table of contents
 
- - [Section 0: INDICATIONS](#section-i-indications)
+ - [Section 0: INDICATIONS](#section-0-indications)
  - [Section I: PREAMBLE](#section-i-preamble)
  - [1. Definitions](#1-definitions)
  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
