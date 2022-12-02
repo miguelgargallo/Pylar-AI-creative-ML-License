@@ -1,3 +1,5 @@
+###### WIP: WORK IN PROGRESS, DO NOT USE, NOT VALID, UNDER REVIEW
+
 Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
 | Pylar AI creative ML | Permissions  | Limitations | Conditions |
@@ -8,12 +10,13 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 | Version: pre-v0.0.2 | ✅ Non-commercial publications  | ❌ Warranty |  |
 |  | ✅ No endorse publications | ❌ Modification to endorse |  |  |
 |  | ✅ Modification only to PR | ❌ Modification to PR outside the [Official Sources](#official-sources)  |  |  |
-| This is not legal advice. [Learn more about repository licenses.](#section-i-preamble) | ✅  | ❌ Modification for commercial use  |  |  |
+| This is not legal advice. [Learn more about repository licenses.](#section-i-preamble) | ✅ Use this license according [Indications](Indications)  | ❌ Modification for commercial use  |  |  |
 
 # Pylar AI creative ML
 
 #### Table of contents
 
+ - [Section 0: INDICATIONS](#section-i-indications)
  - [Section I: PREAMBLE](#section-i-preamble)
  - [1. Definitions](#1-definitions)
  - [Section II: INTELLECTUAL PROPERTY RIGHTS](#section-ii-intellectual-property-rights)
@@ -30,6 +33,10 @@ Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDAT
 | dated  | December the 1st of the year 2022  |
 | from  | legal@itamaesan.org (contact us through this address)  |
 | version  | pre-v0.0.2 |
+
+## Section 0: INDICATIONS
+
+##### Use this license at Github only as a template of the project according [Official Sources](#Official-Sources) or if its outside, add the link of the license inside the version folder license file.
 
 ## Section I: PREAMBLE
 
