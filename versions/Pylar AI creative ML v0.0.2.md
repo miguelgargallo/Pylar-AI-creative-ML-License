@@ -1,6 +1,3 @@
-###### WIP: WORK IN PROGRESS, DO NOT USE, NOT VALID, UNDER REVIEW
-###### THIS LICENSE IS NOT OFFICIAL AND DO NOT RELY OR APPLY ANYWHERE, IT IS pre-v version.
-
 Copyright &copy; 2022 Miguel Gargallo, Pencil Works LLC, ITAMAESAN ORG, SUPERDATAS, Pylar Team.
 
 | Pylar AI creative ML | Permissions  | Limitations | Conditions |
